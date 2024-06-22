@@ -1,0 +1,114 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Motivation}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Objectives}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Scope}{2}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Significance of the Study}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Outline of the Report}{3}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Related Work}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction to literature review}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Historical Perspective}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Current State of the Art}{8}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Medibot's Contributions}{9}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Methods}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Software System}{10}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}System Description}{10}{subsection.3.1.1}%
+\contentsline {paragraph}{Patient Perspective:}{10}{section*.4}%
+\contentsline {paragraph}{Healthcare Professional Perspective:}{11}{section*.5}%
+\contentsline {paragraph}{Important Notes:}{11}{section*.6}%
+\contentsline {subsection}{\numberline {3.1.2}System Boundaries}{12}{subsection.3.1.2}%
+\contentsline {subsubsection}{Core components within the System}{12}{section*.7}%
+\contentsline {subsubsection}{Interface Components within the System}{13}{section*.8}%
+\contentsline {subsubsection}{Key Points at the Boundaries}{13}{section*.9}%
+\contentsline {subsubsection}{Outside System Boundaries}{14}{section*.10}%
+\contentsline {subsection}{\numberline {3.1.3}Objectives and Requirements}{14}{subsection.3.1.3}%
+\contentsline {subsubsection}{Objectives}{14}{section*.11}%
+\contentsline {subsubsection}{Requirements}{14}{section*.12}%
+\contentsline {subsubsection}{Desired Characteristics}{15}{section*.13}%
+\contentsline {subsection}{\numberline {3.1.4}System Requirements}{15}{subsection.3.1.4}%
+\contentsline {subsubsection}{Use Case Diagram}{15}{section*.14}%
+\contentsline {subsubsection}{General Functionality}{15}{section*.15}%
+\contentsline {subsubsection}{Software Interfaces}{16}{section*.16}%
+\contentsline {subsubsection}{Application Programming Interface (API)}{16}{section*.17}%
+\contentsline {subsubsection}{Functional Requirements}{17}{section*.18}%
+\contentsline {subsubsection}{Non-Functional Requirements}{19}{section*.19}%
+\contentsline {subsubsection}{Use Cases}{22}{section*.20}%
+\contentsline {subsection}{\numberline {3.1.5}Research Design}{36}{subsection.3.1.5}%
+\contentsline {subsubsection}{Plan and Strategy}{36}{section*.21}%
+\contentsline {subsubsection}{Research Methods}{36}{section*.22}%
+\contentsline {subsection}{\numberline {3.1.6}Architectural Design}{37}{subsection.3.1.6}%
+\contentsline {subsubsection}{Overall Architecture}{37}{section*.23}%
+\contentsline {subsubsection}{Frontend}{38}{section*.24}%
+\contentsline {subsubsection}{Backend}{38}{section*.25}%
+\contentsline {subsection}{\numberline {3.1.7}Data Design}{39}{subsection.3.1.7}%
+\contentsline {subsubsection}{Data Collection}{39}{section*.26}%
+\contentsline {subsection}{\numberline {3.1.8}Interaction Design}{42}{subsection.3.1.8}%
+\contentsline {subsubsection}{User Interaction}{42}{section*.27}%
+\contentsline {subsection}{\numberline {3.1.9}Data Flow Diagrams}{47}{subsection.3.1.9}%
+\contentsline {subsection}{\numberline {3.1.10}Tools and Technologies}{48}{subsection.3.1.10}%
+\contentsline {subsubsection}{Software Frameworks}{48}{section*.28}%
+\contentsline {subsubsection}{Hardware Infrastructure}{50}{section*.29}%
+\contentsline {section}{\numberline {3.2}Artificial Intelligence Systems}{51}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Computer Vision Models}{51}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Large Language Models}{53}{subsection.3.2.2}%
+\contentsline {chapter}{\numberline {4}Implementation and Preliminary Results}{55}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Code Structure}{55}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Frontend}{55}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Backend}{57}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Large Language Models (LLMs)}{58}{subsection.4.1.3}%
+\contentsline {subsubsection}{Agents}{59}{section*.30}%
+\contentsline {subsubsection}{Tools}{59}{section*.31}%
+\contentsline {subsubsection}{Infrastructure}{60}{section*.32}%
+\contentsline {subsection}{\numberline {4.1.4}Computer Vision Models}{60}{subsection.4.1.4}%
+\contentsline {subsubsection}{Overview}{61}{section*.33}%
+\contentsline {subsubsection}{Directories and Files}{62}{section*.34}%
+\contentsline {subsubsection}{Model Specifics}{62}{section*.35}%
+\contentsline {paragraph}{X-ray and Image Classification Models}{62}{section*.36}%
+\contentsline {subsubsection}{Lab Reports}{62}{section*.37}%
+\contentsline {subsubsection}{Infrastructure}{63}{section*.38}%
+\contentsline {section}{\numberline {4.2}Data Structure and Databases}{63}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}MongoDB Schemas}{63}{subsection.4.2.1}%
+\contentsline {subsubsection}{User Schema}{63}{section*.39}%
+\contentsline {subsubsection}{Conversation Schema}{64}{section*.40}%
+\contentsline {subsection}{\numberline {4.2.2}Milvus Vector Database Integration}{64}{subsection.4.2.2}%
+\contentsline {subsubsection}{Vector Data Structure}{65}{section*.41}%
+\contentsline {subsubsection}{Integration and Optimization}{65}{section*.42}%
+\contentsline {subsubsection}{Querying Vectors}{66}{section*.43}%
+\contentsline {subsection}{\numberline {4.2.3}Database Integration and Performance Optimization}{66}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Data Processing and Generation of New Datasets}{66}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Textual Data Processing and Dataset Generation}{66}{subsection.4.3.1}%
+\contentsline {subsubsection}{Symptom Data Transformation}{66}{section*.44}%
+\contentsline {subsubsection}{Question Generation}{67}{section*.45}%
+\contentsline {subsubsection}{Follow-up Question Generation}{67}{section*.46}%
+\contentsline {subsection}{\numberline {4.3.2}Image Data Processing and Augmentation}{67}{subsection.4.3.2}%
+\contentsline {subsubsection}{Chest X-Ray Image Dataset}{67}{section*.47}%
+\contentsline {subsubsection}{Lab Report Data Integration}{67}{section*.48}%
+\contentsline {subsection}{\numberline {4.3.3}Combined Dataset Utilization}{68}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Computer Vision Models}{68}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}X-ray Analysis}{68}{subsection.4.4.1}%
+\contentsline {subsubsection}{Model Training}{68}{section*.49}%
+\contentsline {subsubsection}{Model Evaluation}{69}{section*.50}%
+\contentsline {subsubsection}{Results}{69}{section*.51}%
+\contentsline {subsection}{\numberline {4.4.2}Image Type Classification}{70}{subsection.4.4.2}%
+\contentsline {subsubsection}{Model Training}{70}{section*.52}%
+\contentsline {subsubsection}{Model Evaluation}{70}{section*.53}%
+\contentsline {subsubsection}{Results}{71}{section*.54}%
+\contentsline {section}{\numberline {4.5}Large Language Models (LLMs)}{71}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Symptom Extractor Llama3-8b}{71}{subsection.4.5.1}%
+\contentsline {subsubsection}{LoRA Configuration}{71}{section*.55}%
+\contentsline {subsubsection}{Training Strategy}{72}{section*.56}%
+\contentsline {subsubsection}{Training Results}{72}{section*.57}%
+\contentsline {subsection}{\numberline {4.5.2}General Medical Knowledge Llama3-70b}{72}{subsection.4.5.2}%
+\contentsline {subsubsection}{Training Overview}{73}{section*.58}%
+\contentsline {subsubsection}{Training Setup}{73}{section*.59}%
+\contentsline {subsubsection}{Training Prompt}{73}{section*.60}%
+\contentsline {subsubsection}{Training Results}{74}{section*.61}%
+\contentsline {section}{\numberline {4.6}Quantitative Results}{74}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Qualitative Results}{74}{section.4.7}%
+\contentsline {chapter}{\numberline {5}Discussion and Conclusion}{75}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Interpretation of Results}{75}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Challenges and Limitations}{75}{subsection.5.1.1}%
+\contentsline {section}{\numberline {5.2}Support from Microsoft Azure Founders Fund}{76}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Future Work}{77}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Conclusion}{78}{section.5.4}%

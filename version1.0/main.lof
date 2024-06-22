@@ -1,0 +1,32 @@
+\babel@toc {english}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces System Context Diagram}}{11}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces System Context Diagram}}{15}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces API Endpoints}}{16}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Overall System Architecture.}}{38}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Data Collection Process.}}{39}{figure.3.5}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Web Login Page.}}{43}{figure.3.6}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Web Chat Page.}}{43}{figure.3.7}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Web Chat History Page.}}{43}{figure.3.8}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Web Xray Diagnosis Page.}}{44}{figure.3.9}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Web Settings Page.}}{44}{figure.3.10}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Mobile Login Page}}{45}{figure.3.11}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Mobile Menu Page}}{45}{figure.3.12}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Mobile Chat History Page}}{45}{figure.3.13}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Mobile Chat Page}}{46}{figure.3.14}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Mobile Xray Page}}{46}{figure.3.15}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Data Flow for Chat.}}{47}{figure.3.16}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Data Flow for Xray Analysis.}}{47}{figure.3.17}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Data Flow for Lab Report Analysis.}}{47}{figure.3.18}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Data Flow for LLM Agents System.}}{48}{figure.3.19}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Data Flow for Xray System.}}{48}{figure.3.20}%
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Data Flow for Lab Reports System.}}{48}{figure.3.21}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Frontend Code Structure}}{56}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Backend Code Structure}}{57}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Structure of LLM Agents and Tools}}{59}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Computer Vision Code Structure}}{61}{figure.4.4}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Microsoft Azure Founders Fund Approval Dashboard}}{77}{figure.5.1}%

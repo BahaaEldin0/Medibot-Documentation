@@ -1,0 +1,60 @@
+\begin{thebibliography}{10}
+
+\bibitem{younis2021hybrid}
+M.~C. Younis and H.~Abuhammad, ``A hybrid fusion framework to multi-modal biometric identification,'' {\em Multimedia Tools and Applications}, vol.~80, no.~17, pp.~25799--25822, 2021.
+
+\bibitem{Rasol}
+M.~Rasol, S.~Haider, M.~Selman, E.~Jarjees, and S.~Atroshy, ``Graduation project guide (gpg),'' 09 2015.
+
+\bibitem{irvin2019chexpert}
+J.~Irvin, P.~Rajpurkar, M.~Ko, Y.~Yu, S.~Ciurea-Ilcus, C.~Chute, H.~Marklund, B.~Haghgoo, R.~Ball, K.~Shpanskaya, {\em et~al.}, ``Chexpert: A large chest radiograph dataset with uncertainty labels and expert comparison,'' {\em Proceedings of the AAAI Conference on Artificial Intelligence}, vol.~33, pp.~590--597, 2019.
+
+\bibitem{wang2017chestx}
+X.~Wang, Y.~Peng, L.~Lu, Z.~Lu, M.~Bagheri, and R.~M. Summers, ``Chestx-ray8: Hospital-scale chest x-ray database and benchmarks on weakly-supervised classification and localization of common thorax diseases,'' {\em arXiv preprint arXiv:1705.02315}, 2017.
+
+\bibitem{arslan2023pixels}
+M.~Arslan, A.~Haider, M.~Khurshid, S.~A. Bakar, R.~Jani, F.~Masood, T.~Tahir, K.~T. Mitchell, S.~Panchagnula, and S.~Mandair, ``From pixels to pathology: Employing computer vision to decode chest diseases in medical images,'' {\em Cureus}, 2023.
+
+\bibitem{bumgardner2023local}
+V.~K.~C. Bumgardner, A.~D. Mullen, S.~Armstrong, and J.~Talbert, ``Local large language models for complex structured medical tasks,'' {\em ResearchGate}, 2023.
+
+\bibitem{nhs_conditions}
+{NHS (National Health Service)}, ``{NHS Conditions}.''
+
+\bibitem{medical_transcriptions_dataset}
+``Medical transcriptions dataset.''
+
+\bibitem{medical_datasets_hugging_face}
+``Medical datasets on hugging face.''
+
+\bibitem{chexpert_dataset}
+``Chexpert dataset.''
+
+\bibitem{vindr_cxr_dataset}
+``Vindr-cxr dataset.''
+
+\bibitem{chestx_ray8_dataset}
+``Chestx-ray8 dataset.''
+
+\bibitem{chestx_ray14_dataset}
+``Chestx-ray14 dataset.''
+
+\bibitem{stanford_ml_group_website}
+``Stanford ml group.''
+
+\bibitem{tensorflow_chexpert_dataset}
+``Tensorflow datasets - chexpert.''
+
+\bibitem{inception_mbzuai_jais13b_model}
+``Inception-mbzuai/jais-13b.''
+
+\bibitem{inception_mbzuai_jais13b_chat_model}
+``Inception-mbzuai/jais-13b-chat.''
+
+\bibitem{thebloke_llama2_13b_tiefighter_gptq_model}
+``Thebloke/llama2-13b-tiefighter-gptq.''
+
+\bibitem{thebloke_models}
+``Thebloke models.''
+
+\end{thebibliography}

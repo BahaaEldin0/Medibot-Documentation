@@ -1,0 +1,56 @@
+Our project is Medibot 
+
+Medical Diagnosis AI Assistant using Computer Vision and Natural Language Processing 
+
+First of All we Have The Chat part, where you can chat with Medibot and talk about your symptoms and what you feel, where our AI will respond with the preliminary diagnosis, suggesting what doctor you would need to see for further diagnosis.
+The bot can ask for more info for better diagnosis.
+
+You can also send your Xray ina  different tab where the Computer Vision part of Medibot will check if you have anything in your xray image. 
+
+You can also send in your blood lab reports in a different tab where computer vision is implemented to transform the image to text with ocr, then the llm will process the text and make a simplified report telling you might be wrong with you.
+
+
+We have our project in multiple parts.
+
+Front End
+- Website
+	- NextJs + ReactJs 
+	- Dockerized into  container
+- Mobile App
+	- Capacitor Used to build the Website into an Android project
+	- Apk files build for Android
+
+
+Back End
+- Nodejs 
+- Dockerized into  container
+
+Databases
+- MongoDB for all Backend data
+- Milvus for all Vector data for Rag tools
+- Dockerized into  container
+
+LLMs
+- Langgraph for all agents processing 
+- Llama3-8b for routing between agents (Main Routing Agent)
+- Llama3-8b for symptom extraction Symptom Checker Agent (Tool used by the main Agent)
+- Llama3-70b for general responses and main interaction with user (Main Agent, for general answering ,and interacting with the user)
+- Llama3-70b for specialized agents with Rag access.(Child Specialized Agent with Egyptian Pediatric Clinical Practice Guidelines Committee)
+- Llama3-8b for Lab reports summarization and Reporting (Lab Reports Agent, not in chat. it has its own tab in website)
+- Python Code with FastApi, Uvicorn
+- Dockerized into  container
+
+Computer Vision
+
+- NN for classification of images uploaded to the system ( Xray image, Lab report Image, Misc Image)
+
+- Ensemble of models for Xray Classification (No Finding, Support Devices, Fracture, Edema, Pneumonia, Lesion, Atelectasis, Pneumothorax, Peural Effusion, Cardiomegaly, Consolidation, Infiltration, Emphysema, Fibrosis, Effusion, Pleural_thickening,Nodule Mass, Hernia) Using multiple Models ( Densenet121, Volod2, SwinV2) Datasets Chexpert + Chest Xray-14
+
+- Lab Reports
+ - OCR model, text is then sent to the LLM Lab reports agent
+
+- Dockerized into  container
+- Python Code with FastApi, Uvicorn
+
+
+
